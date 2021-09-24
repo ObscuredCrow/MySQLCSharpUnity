@@ -34,3 +34,5 @@ public class Communication
 
 Reference to Sqlite-net
 https://github.com/praeclarum/sqlite-net
+
+*Note since this library was created in unity there will be sections that use Debug.Log("Message"); which will not work outside of unity. You can change these to Console.WriteLine("Message"); to produce the same result.
