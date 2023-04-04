@@ -1,4 +1,4 @@
-# MySQL_CSharp_Unity
+# MySQLCSharpUnity
 This is a CSharp and Unity library that was designed based off of sqlite-net as an example. This approach makes it clean and easy to work with MySQL from your application without many headaches. To use this library just simply add the dependencies and mysql script to your project, and you're off to the races. Below are a couple examples of working with the library.
 
 ```
